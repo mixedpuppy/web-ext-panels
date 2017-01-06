@@ -1,0 +1,11 @@
+{
+  "name": "panel sample",
+  "version": "1",
+  "manifest_version": 2,
+  "permissions": ["experiments.panels", "panels"],
+  "panel": {
+    "default_panel": "index.html",
+    "default_title": "Example Panel",
+    "default_location": "above_browser"
+  }
+}
